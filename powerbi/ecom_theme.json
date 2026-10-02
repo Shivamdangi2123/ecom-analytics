@@ -1,0 +1,13 @@
+{
+  "name": "Ecom Analytics",
+  "dataColors": ["#1F3A5F", "#2E8B57", "#F28C28", "#D64545", "#2A9D8F", "#8D99AE", "#6C5CE7", "#E9C46A"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2937",
+  "tableAccent": "#1F3A5F",
+  "good": "#2E8B57",
+  "neutral": "#E9C46A",
+  "bad": "#D64545",
+  "maximum": "#1F3A5F",
+  "center": "#8D99AE",
+  "minimum": "#D6E4F0"
+}
